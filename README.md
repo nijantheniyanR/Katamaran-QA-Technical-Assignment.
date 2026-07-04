@@ -21,25 +21,15 @@ This repository contains professional Quality Assurance documentation, including
 
 ## 📂 Repository Contents
 
-### 1. [QA_Test_Cases.md](file:///C:/Users/Nijanth/.gemini/antigravity-ide/scratch/Katamaran-QA-Technical-Assignment/QA_Test_Cases.md)
-A comprehensive test suite containing structural test cases mapped to the following critical modules:
-- **Module 1: User Authentication & Profile Management**
-- **Module 2: Requirement Posting & Marketplace Feed**
-- **Module 3: SMI Match Engine & Notifications**
-- **Module 4: Connection Fee Payments & Contact Unlocking**
-- **Module 5: Real-time Chat & In-App Messaging**
-- **Module 6: Review & Rating System**
+### 1. Official QA Assignment Files (MS Office Formats)
+These are the official deliverables extracted from the assignment package:
+- 📊 **[Test_Case_Document_Tichi.xlsx](file:///C:/Users/Nijanth/.gemini/antigravity-ide/scratch/Katamaran-QA-Technical-Assignment/Test_Case_Document_Tichi.xlsx)**: Complete test case sheet containing modules, descriptions, execution steps, expected results, priority, severity, and status.
+- 📝 **[Defect_Report_Tichi.docx](file:///C:/Users/Nijanth/.gemini/antigravity-ide/scratch/Katamaran-QA-Technical-Assignment/Defect_Report_Tichi.docx)**: Official defect report document with defect logs, screenshots/descriptions, and environmental details.
 
-Each test case includes a unique ID, description, pre-conditions, steps, expected results, priority, and severity level.
-
-### 2. [Defect_Report.md](file:///C:/Users/Nijanth/.gemini/antigravity-ide/scratch/Katamaran-QA-Technical-Assignment/Defect_Report.md)
-A defect report detailing simulated functional and cosmetic bugs found during application testing. Bugs are documented with:
-- Unique Defect ID
-- Title & Description
-- Priority & Severity (Critical, Major, Medium, Minor)
-- Detailed Steps to Reproduce
-- Expected vs. Actual Results
-- Environmental details (OS version, device model)
+### 2. Markdown Versions (For Easy Web Preview)
+For quick online viewing on GitHub, Markdown equivalents are also provided:
+- 🧪 **[QA_Test_Cases.md](file:///C:/Users/Nijanth/.gemini/antigravity-ide/scratch/Katamaran-QA-Technical-Assignment/QA_Test_Cases.md)**: Web-previewable markdown version of the test suite.
+- 🐛 **[Defect_Report.md](file:///C:/Users/Nijanth/.gemini/antigravity-ide/scratch/Katamaran-QA-Technical-Assignment/Defect_Report.md)**: Web-previewable markdown version of the defect logs.
 
 ---
 
